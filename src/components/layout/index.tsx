@@ -1,4 +1,3 @@
-import { AppShell } from "@mantine/core";
 import { Header } from "components/header";
 import { Outlet } from "react-router-dom";
 
