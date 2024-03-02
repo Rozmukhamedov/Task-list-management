@@ -23,8 +23,25 @@ export default {
     tsconfigRootDir: __dirname,
   },
 }
+
+## Getting Started 🚀
+
+1. Clone the project:
+```
+git clone https://github.com/SSK-14/Auto-Finance.git
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+2. Enter the project folder:
+```
+cd Auto-Finance
+```
+
+3. Install dependencies:
+```
+npm install
+```
+
+4. Run the application:
+```
+npm run dev
+```
