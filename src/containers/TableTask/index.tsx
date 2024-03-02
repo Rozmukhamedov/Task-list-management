@@ -1,4 +1,3 @@
-import classes from "./style.module.css";
 import { Button, Table, Text } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
 import { EditModalTask } from "containers";
